@@ -1,14 +1,44 @@
-# Hello, I'm Yuki Hosono!
+# Hello there, I'm Yuki Hosono! 👋
 
-## Skills
+I’m currently a student at 42 Paris , seeking an internship starting in 2026 to complete my Master's level (RNCP 7) diploma
 
-## Prjects
+## 🚀 Skills
 
-## Connect with me
+Here are the technologies I work with:
 
-- [LinkedIn]()
-- [Twitter]()
+- **Languages:** C, C++, Python, Swift, Git
+- **Specialized:** Embedded AI Systems, Memory management, LLM Integration, Real-time P2P(BLE), Full-stack Development
+- **Tools & DevOps:** Git, Docker, Linux, AWS(EC2), Redmine
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hosonu&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
+## 🛠 Featured Projects
 
-<img src="https://github-readme-stats.vercel.app/api?username=hosonu&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" width="410" /></p>
+### 📂 [Gomoku](https://github.com/hosonu/42_Gomoku)
+
+> Gomoku is a strategic board game where players alternate placing black and white stones on a 19x19 board. The objective is to be the first to form an unbroken line of five stones horizontally, vertically, or diagonally.
+
+- **Tech Stack:** C++, Bitboards, Minimax Algorithm with Alpha-Beta Pruning
+- **Key Features:**
+  - ✨ Optimized move evaluation using **BitBoards** for near-instant decision-making.
+  - 🚀 Sophisticated pruning techniques to explore deeper game trees within time constraints.
+![Gomoku Demo](./assets/output.gif)
+
+### 📂 [Echome](https://github.com/hosonu/Echome-iOS/tree/develop)
+> A decentralized, real-time music sharing app using BLE to synchronize "Current Song" playback between nearby devices.
+
+- **Tech Stack:** Swift, SwiftUI, MusicKit, CoreBluetooth
+- **Key Features:**
+  - 🎧 Seamless interaction with the user's music library and playback management using MusicKit
+  - 🛜 Implementation of CoreBluetooth to establish and manage communication with external peripherals
+
+## 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/yuki-hosono-264170390/)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hosonu&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hosonu&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" />
+</p>
