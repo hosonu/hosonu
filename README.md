@@ -6,7 +6,7 @@ I’m currently a student at 42 Paris , seeking an internship starting in 2026 t
 
 Here are the technologies I work with:
 
-- **Languages:** C, C++, Python, Swift, Git
+- **Languages:** C, C++, Python, Swift
 - **Specialized:** Embedded AI Systems, Memory management, LLM Integration, Real-time P2P(BLE), Full-stack Development
 - **Tools & DevOps:** Git, Docker, Linux, AWS(EC2), Redmine
 
