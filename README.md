@@ -12,6 +12,18 @@ Here are the technologies I work with:
 
 ## 🛠 Featured Projects
 
+### 📂 [Total Perspective Vortex](https://github.com/hosonu/42_TotalPerspectiveVortex)
+
+> A Brain-Computer Interface (BCI) project that classifies motor-imagery EEG signals, decoding imagined movements from brain activity using classical signal processing and machine learning.
+
+- **Tech Stack:** Python, MNE, scikit-learn, NumPy/SciPy, PyWavelets
+- **Key Features:**
+  - 🧠 Built a custom **Common Spatial Patterns (CSP)** transformer from scratch for EEG spatial filtering.
+  - 📊 Implemented an end-to-end ML pipeline with EEG preprocessing, feature extraction, LDA classification, and stratified cross-validation.
+  - 🌊 Added optional Morlet wavelet-based spectral features for enhanced frequency-domain analysis.
+  - ⚡ Simulated real-time EEG inference using a socket-based playback flow.
+![Total Perspective Vortex Demo](./assets/total-perspective-vortex-eeg.png)
+
 ### 📂 [Gomoku](https://github.com/hosonu/42_Gomoku)
 
 > Gomoku is a strategic board game where players alternate placing black and white stones on a 19x19 board. The objective is to be the first to form an unbroken line of five stones horizontally, vertically, or diagonally.
