@@ -58,11 +58,3 @@ Here are the technologies I work with:
 
 [LinkedIn](https://www.linkedin.com/in/yuki-hosono-264170390/)
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hosonu&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hosonu&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" />
-</p>
