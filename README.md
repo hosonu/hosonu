@@ -1,16 +1,28 @@
 # Hello there, I'm Yuki Hosono! 👋
 
-I’m currently a student at 42 Paris , seeking an internship starting in 2026 to complete my Master's level (RNCP 7) diploma
+I’m currently a student at 42 Paris , seeking an internship starting in 2027 to complete my Master's level (RNCP 7) diploma
 
 ## 🚀 Skills
 
 Here are the technologies I work with:
 
 - **Languages:** C, C++, Python, Swift
-- **Specialized:** Embedded AI Systems, Memory management, LLM Integration, Real-time P2P(BLE), Full-stack Development
-- **Tools & DevOps:** Git, Docker, Linux, AWS(EC2), Redmine
+- **ML & Data:** pandas, NumPy, scikit-learn, PyTorch
+- **Specialized:** ML evaluation, Embedded AI Systems, Memory management, LLM Integration, Real-time P2P(BLE), Full-stack Development
+- **Tools & DevOps:** Git, Docker, Linux, AWS(EC2), Redmine, mypy, uv
 
 ## 🛠 Featured Projects
+
+### 📂 [shot-probability](https://github.com/hosonu/shot-probability)
+
+> Which information actually improves the probability that a football shot becomes a goal (xG)? A fair, leakage-guarded benchmark on StatsBomb open data across four 2015/16 leagues (37,888 shots).
+
+- **Tech Stack:** Python, pandas, scikit-learn, PyTorch, mypy (strict), Numpy, pytest, uv
+- **Key Features:**
+  - ⚖️ Leave-one-league-out evaluation with log loss and match-level bootstrap confidence intervals.
+  - 🧩 Add-one / remove-one comparison of information groups: defensive shape at shot time is the one irreplaceable signal.
+  - 🔒 Leakage guarded by construction, verified by tests that corrupt every later event.
+  - 🧠 Transformer encoder implemented from scratch (Q/K/V attention) and benchmarked honestly against a logistic baseline.
 
 ### 📂 [Total Perspective Vortex](https://github.com/hosonu/42_TotalPerspectiveVortex)
 
@@ -34,7 +46,7 @@ Here are the technologies I work with:
   - 🚀 Sophisticated pruning techniques to explore deeper game trees within time constraints.
 ![Gomoku Demo](./assets/output.gif)
 
-### 📂 [Echome](https://github.com/hosonu/Echome-iOS/tree/develop)
+### 📂 Echome (private repository)
 > A decentralized, real-time music sharing app using BLE to synchronize "Current Song" playback between nearby devices.
 
 - **Tech Stack:** Swift, SwiftUI, MusicKit, CoreBluetooth
