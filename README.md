@@ -56,5 +56,5 @@ Here are the technologies I work with:
 
 ## 📫 Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/yuki-hosono-264170390/)
+[LinkedIn](https://www.linkedin.com/in/yuki-hosono)
 
